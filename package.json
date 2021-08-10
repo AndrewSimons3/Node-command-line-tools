@@ -13,6 +13,9 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bin": {
+    "nls": "index.js"
+  },
   "bugs": {
     "url": "https://github.com/AndrewSimons3/Node-command-line-tools/issues"
   },
