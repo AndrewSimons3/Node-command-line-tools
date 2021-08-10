@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/AndrewSimons3/Node-command-line-tools/issues"
   },
-  "homepage": "https://github.com/AndrewSimons3/Node-command-line-tools#readme"
+  "homepage": "https://github.com/AndrewSimons3/Node-command-line-tools#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
 }
